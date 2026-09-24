@@ -11,7 +11,7 @@ uname -s
 sw_vers -productVersion
 ```
 
-Jade needs **macOS 26 or later** (`Darwin`, major version 26 or higher), on Apple silicon or Intel. If the Mac is older, stop here and tell the user Jade needs macOS 26.
+Jade needs **macOS 14 Sonoma or later** (`uname -s` prints `Darwin`; check `sw_vers -productVersion`'s major version is 14 or higher), on Apple silicon or Intel. If the Mac is older, stop here and tell the user Jade needs macOS 14.
 
 ## 2. Install
 

@@ -25,7 +25,7 @@ set -euo pipefail
 REPO="jade-pet/jade-releases"
 CASK="misoto22/tap/jade"
 BUNDLE_ID="io.github.jade-pet.jade"
-MINIMUM_MACOS=26
+MINIMUM_MACOS=14
 HOMEBREW_INSTALLER="https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh"
 
 method="homebrew"
@@ -75,7 +75,7 @@ parse_options() {
   done
 }
 
-# Jade needs macOS 26 or later; it runs on Apple silicon and Intel alike.
+# Jade needs macOS 14 Sonoma or later; it runs on Apple silicon and Intel alike.
 check_system() {
   [ "$(uname -s)" = "Darwin" ] || fail "Jade is a Mac app; this is $(uname -s)."
   local version major
