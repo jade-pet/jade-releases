@@ -18,7 +18,7 @@ Jade 让一只猫住进你的 Mac，到点叫你起来歇会儿。这个仓库�
 
 - Or with Homebrew / 或者用 Homebrew：`brew install --cask misoto22/tap/jade`
 
-Needs macOS 26 or later. 需要 macOS 26 或更高版本。
+Needs macOS 14 or later. 需要 macOS 14 或更高版本。
 
 ## What's here / 这里有什么
 
