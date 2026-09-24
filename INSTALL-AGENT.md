@@ -1,6 +1,6 @@
 # Installing Jade for Mac — instructions for an AI agent
 
-You have been asked to install **Jade for Mac** on the user's Mac. Jade is a menu-bar app: a cat lives on the desktop and reminds the user to take breaks. Website: <https://jadethecat.com>. Downloads: <https://github.com/jade-pet/jade-releases>. Short link to these instructions: <https://jadethecat.com/mac/agent>.
+You have been asked to install **Jade for Mac** on the user's Mac. Jade is a menu-bar app: a cat lives on the desktop and reminds the user to take breaks. Website: <https://jadethecat.com>. Downloads: <https://github.com/jade-the-cat/jade-releases>. Short link to these instructions: <https://jadethecat.com/mac/agent>.
 
 Follow the steps in order. Run each command yourself and read its output before going on.
 

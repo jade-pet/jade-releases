@@ -4,7 +4,7 @@
 #   bash -c "$(curl -fsSL https://jadethecat.com/mac/install)"
 #
 # https://jadethecat.com/mac/install redirects to the copy of this file in
-# jade-pet/jade-releases, the public home of Jade's downloads; publish.yml
+# jade-the-cat/jade-releases, the public home of Jade's downloads; publish.yml
 # puts it there with each release.
 #
 # Checks that this Mac can run Jade, then installs it with the Homebrew cask,
@@ -22,7 +22,7 @@
 set -euo pipefail
 
 # The public repository that carries the releases; this one is private.
-REPO="jade-pet/jade-releases"
+REPO="jade-the-cat/jade-releases"
 CASK="misoto22/tap/jade"
 BUNDLE_ID="io.github.jade-pet.jade"
 MINIMUM_MACOS=14

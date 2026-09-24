@@ -22,7 +22,7 @@ Needs macOS 26 or later. 需要 macOS 26 或更高版本。
 
 ## What's here / 这里有什么
 
-- [Releases](https://github.com/jade-pet/jade-releases/releases): every version's DMG, checksums
+- [Releases](https://github.com/jade-the-cat/jade-releases/releases): every version's DMG, checksums
   and notes. 每个版本的 DMG、校验值和更新说明。
 - `install.sh`: the script behind `jadethecat.com/mac/install`. 安装脚本。
 - `INSTALL-AGENT.md`: instructions for an AI agent installing Jade, at `jadethecat.com/mac/agent`.
@@ -33,7 +33,7 @@ These files are copied here automatically with each release; changes made here a
 
 ## Feedback / 反馈
 
-[Open an issue](https://github.com/jade-pet/jade-releases/issues) for bugs and ideas.
-有问题或建议，请[开一个 issue](https://github.com/jade-pet/jade-releases/issues)。
+[Open an issue](https://github.com/jade-the-cat/jade-releases/issues) for bugs and ideas.
+有问题或建议，请[开一个 issue](https://github.com/jade-the-cat/jade-releases/issues)。
 
 <sub>© 2026 Henry Chen. Jade, its app and its artwork are all rights reserved.</sub>
